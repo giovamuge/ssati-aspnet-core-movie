@@ -29,8 +29,7 @@ Ciao in questa esercitazione ci eserciteremo nello sviluppo quanto più ampio di
 - [ ] Aggiungi una autenticazione, in questo caso Asp.Net Core Identity
 - [ ] Crea una repo su GitHub e condividela con [me](https://github.com/giovamuge)
 
-## Considerazioni finali
-Ecco la correzione del commento:
+## Considerazioni finali
 
 Un'applicazione backend che espone servizi ad altri applicativi via web, seguendo il protocollo più idoneo alle proprie esigenze, rappresenta una delle sfide più impegnative nel percorso di sofware developer. Non preoccuparti! Anche se sei un dev con qualche anno di esperienza, è facile incappare negli errori comuni come loop infiniti, punti e virgola mancanti, allocazione incontrollata di RAM, richieste troppo grandi e onerose al database che rallentano la tua app, e molti altri.
 
