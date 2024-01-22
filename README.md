@@ -10,7 +10,7 @@ Ciao in questa esercitazione ci eserciteremo nello sviluppo quanto più ampio di
 - [ ] Configurare Entity Framework
     - [ ] Crea un ApplicationDbContext
     - [ ] Sql connection per dbcontext
-    - [ ] Definire la struttura del DB 
+    - [ ] Definire la struttura del DB, [vedi qui](#db-diagram la struttura del db)
     - [ ] Dopodiché scrivi le entities necessarie e configura il modelBuilder in applicationDbContext
     - [ ] Configurazione della Dependency Injection 
     - [ ] Aggiungere la prima migrazione
@@ -28,6 +28,9 @@ Ciao in questa esercitazione ci eserciteremo nello sviluppo quanto più ampio di
 - [ ] Esegui test con Postman
 - [ ] Aggiungi una autenticazione, in questo caso Asp.Net Core Identity
 - [ ] Crea una repo su GitHub e condividela con [me](https://github.com/giovamuge)
+
+## Datbase {#db-diagram}
+![Movie DB Diagram](TestDB-movie-dbo.png)
 
 ## Considerazioni finali
 
