@@ -6,11 +6,11 @@ Ciao in questa esercitazione ci eserciteremo nello sviluppo quanto più ampio di
 
 ## Task
 - [ ] Creare un progetto da zero, con IDE o meglio ancora da command line ` dotet new webapi -n <Nome Progetto>` (saper eseguire comandi da terminale ti rende apparentemente più skillato 😉)
-- [ ] Installare pacchetti Entity Framework SQL Server e Entity Framework Diagnostics da riga di commando o da IDE [qui](https://learn.microsoft.com/it-it/aspnet/core/data/ef-mvc/intro?view=aspnetcore-8.0) puoi trovare la documentaione ufficiale di Microsoft
+- [ ] Installare pacchetti Entity Framework SQL Server e Entity Framework Design da riga di commando o da IDE [qui](https://learn.microsoft.com/it-it/aspnet/core/data/ef-mvc/intro?view=aspnetcore-8.0) puoi trovare la documentaione ufficiale di Microsoft
 - [ ] Configurare Entity Framework
     - [ ] Crea un ApplicationDbContext
     - [ ] Sql connection per dbcontext
-    - [ ] Definire la struttura del DB, [vedi qui](#db-diagram la struttura del db)
+    - [ ] Definire la struttura del DB, vedi [qui](#Database) la struttura del db)
     - [ ] Dopodiché scrivi le entities necessarie e configura il modelBuilder in applicationDbContext
     - [ ] Configurazione della Dependency Injection 
     - [ ] Aggiungere la prima migrazione
@@ -29,7 +29,7 @@ Ciao in questa esercitazione ci eserciteremo nello sviluppo quanto più ampio di
 - [ ] Aggiungi una autenticazione, in questo caso Asp.Net Core Identity
 - [ ] Crea una repo su GitHub e condividela con [me](https://github.com/giovamuge)
 
-## Datbase {#db-diagram}
+## Database
 ![Movie DB Diagram](TestDB-movie-dbo.png)
 
 ## Considerazioni finali
