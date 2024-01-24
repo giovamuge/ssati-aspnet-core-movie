@@ -10,7 +10,7 @@ Ciao in questa esercitazione ci eserciteremo nello sviluppo quanto più ampio di
 - [ ] Configurare Entity Framework
     - [ ] Crea un ApplicationDbContext
     - [ ] Sql connection per dbcontext
-    - [ ] Definire la struttura del DB, vedi [qui](#Database) la struttura del db)
+    - [ ] Definire la struttura del DB, vedi [qui](#Database) la struttura del db
     - [ ] Dopodiché scrivi le entities necessarie e configura il modelBuilder in applicationDbContext
     - [ ] Configurazione della Dependency Injection 
     - [ ] Aggiungere la prima migrazione
